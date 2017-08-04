@@ -34,8 +34,9 @@ section.module.parallax {
  background-attachment: fixed;
   background-size: cover;
 }
+
 section.module.parallax h1 {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(0, 0, 168, 0.8);
   font-size: 48px;
   line-height: 600px;
   font-weight: 700;
@@ -44,13 +45,13 @@ section.module.parallax h1 {
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 section.module.parallax-1 {
-  background-image: url("https://media.giphy.com/media/xTiTnqESUHbmDnNsY0/giphy.gif");
+  background-image: url("https://surph.ru/images/news/088-5-prostih-shagov-k-tomu-chtobi-stat-luchshe-v-serfinge/02.jpg");
 }
 section.module.parallax-2 {
-  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/8c/75/89/8c7589fdaa897afde5b11f57a4fd02cf.gif");
+  background-image: url("http://cdn1.theinertia.com/wp-content/uploads/2014/09/23.jpg");
 }
 section.module.parallax-3 {
-  background-image: url("http://cdn.viralitytoday.com/posts/rs16u/n596cv82.gif");
+  background-image: url("http://www.sandiegomagazine.com/images/2013/august/talk/bodysurfing.jpg");
 }
 
 @media all and (min-width: 600px) {
@@ -89,6 +90,7 @@ section.module.parallax-3 {
 .flip-container, .front, .back {
 	width: 320px;
 	height: 427px;
+	
 }
 
 .flipper {
@@ -183,3 +185,4 @@ section.module.parallax-3 {
   font-family: arial;
   line-height: 2em;
 }
+
