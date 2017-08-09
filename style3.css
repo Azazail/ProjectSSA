@@ -1,4 +1,10 @@
 #gallery-main {
-    height: 500px;
+    height: 10%;
     width:100%;
+}
+.thumbnail {
+    width:170px;
+}
+.pictures {
+    width:170px;
 }
