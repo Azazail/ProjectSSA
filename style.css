@@ -53,6 +53,10 @@ section.module.parallax-2 {
 section.module.parallax-3 {
   background-image: url("https://s-media-cache-ak0.pinimg.com/originals/29/60/8a/29608ae4efed0a504397ac6e2cf9eb20.jpg");
 }
+section.module.parallax-4 {
+  background-image: url("http://surfstronger.com/img/morgan/bs2.jpg");
+}
+
 
 @media all and (min-width: 600px) {
   section.module h2 {
@@ -70,3 +74,4 @@ section.module.parallax-3 {
     font-size: 40px;
   }
 }
+
