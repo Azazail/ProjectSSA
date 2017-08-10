@@ -78,3 +78,11 @@ section.module.parallax-4 {
 #gallerypg {
   color:white;
 }
+
+#event{
+  position:absolute;
+  left:50%;
+}
+#ev {
+  color:white;
+}
