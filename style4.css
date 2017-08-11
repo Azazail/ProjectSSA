@@ -1,3 +1,52 @@
-#event3 {
-    height:350px;
+body {
+    background-image: url("http://www.backpacking-travel-blog.com/wp-content/uploads/2017/03/Wave-surf-1024x664.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+
+
+#b1 {
+    position: absolute;
+    left:13%;
+    width:150px;
+    height:100px;
+}
+#b2 {
+    position: absolute;
+    left:63%;
+    width:150px;
+    height:100px;
+    top:0px;
+}
+#b3 {
+    position: absolute;
+    left:13%;
+    top:150px;
+     width:150px;
+    height:100px;
+}
+#b4 {
+    position: absolute;
+    left:63%;
+    top:150px;
+     width:150px;
+    height:100px;
+}
+#b5 {
+    position: absolute;
+    left:13%;
+    top:300px;
+    width:150px;
+    height:100px;
+}
+#b6 {
+    position: absolute;
+    left:63%;
+    top:300px;
+      width:150px;
+    height:100px;
+}
+#title {
+    text-align:center;
 }
