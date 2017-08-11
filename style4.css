@@ -11,6 +11,9 @@ body {
     left:13%;
     width:150px;
     height:100px;
+    font-weight: 700;
+      text-shadow: 0 0 10px rgba(0, 0, 0, 10);
+
 }
 #b2 {
     position: absolute;
@@ -18,6 +21,8 @@ body {
     width:150px;
     height:100px;
     top:0px;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 10);
+    font-weight: 700;
 }
 #b3 {
     position: absolute;
@@ -25,6 +30,9 @@ body {
     top:150px;
      width:150px;
     height:100px;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 10);
+    font-weight: 700;
+    
 }
 #b4 {
     position: absolute;
@@ -32,6 +40,8 @@ body {
     top:150px;
      width:150px;
     height:100px;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 10);
+    font-weight: 700;
 }
 #b5 {
     position: absolute;
@@ -39,6 +49,8 @@ body {
     top:300px;
     width:150px;
     height:100px;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 10);
+    font-weight: 700;
 }
 #b6 {
     position: absolute;
@@ -46,6 +58,8 @@ body {
     top:300px;
       width:150px;
     height:100px;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 10);
+    font-weight: 700;
 }
 #title {
     text-align:center;
